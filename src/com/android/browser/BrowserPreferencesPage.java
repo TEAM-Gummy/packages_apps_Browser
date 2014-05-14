@@ -108,7 +108,8 @@ public class BrowserPreferencesPage extends PreferenceActivity {
             "com.android.browser.preferences.AdvancedPreferencesFragment",
             "com.android.browser.preferences.WebsiteSettingsFragment",
             "com.android.browser.preferences.BandwidthPreferencesFragment",
-            "com.android.browser.preferences.LabPreferencesFragment"));
+            "com.android.browser.preferences.LabPreferencesFragment",
+            "com.android.browser.preferences.DebugPreferencesFragment"));
 
     @Override
     protected boolean isValidFragment(String fragmentName) {
