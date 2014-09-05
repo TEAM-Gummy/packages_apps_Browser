@@ -15,16 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string-array name="pref_homepage_choices">
-    <item>Current page</item>
-    <item>Blank page</item>
-    <item>Default page</item>
-    <item>Most visited sites</item>
-    <item>மற்ற</item>
-  </string-array>
-  <string name="autofill_profile_editor_delete_profile">நீக்கு</string>
-  <string name="webstorage_clear_data_dialog_cancel_button">ரத்து</string>
-  <string name="geolocation_settings_page_dialog_cancel_button">ரத்து</string>
-  <string name="website_settings_clear_all_dialog_cancel_button">ரத்து</string>
-  <string name="import_bookmarks_wizard_cancel">ரத்து</string>
+  <string name="new_incognito_tab">يېڭى يوشۇرۇن كۆزنەك بەتكۈچ</string>
+  <string name="tab_bookmarks">خەتكۈچلەر</string>
 </resources>
